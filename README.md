@@ -15,5 +15,3 @@ Welcome to my GitHub profile. I'm an AIML student passionate about Artificial In
 - Exploring AI/ML algorithms and data science techniques.
 - Developing projects related to SQL database management and automated recommendation systems.
 
-## 📫 Connect with Me
-- Feel free to reach out for collaboration or just to connect!
